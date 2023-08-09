@@ -16,7 +16,7 @@ https://github.com/yesillmustafa/Altimeter-Simulation/assets/74787246/03e5db85-a
 
 - OpenGL ES 2.0
 - [GLFW 3.3](https://www.glfw.org/)
-- [stb_image library](https://github.com/nothings/stb)
+- [stb_image library](https://github.com/nothings/stb)(included in the project)
 
 ## Installation and Usage
 
