@@ -7,6 +7,7 @@ https://github.com/yesillmustafa/Altimeter-Simulation/assets/74787246/03e5db85-a
 ## Features
 
 - Display of a circular altimeter with multiple needles indicating different altitude levels.
+- Displaying the visibility flag (it lights white when the altitude value is below 10,000ft, and turns off when it goes above 10,000ft)
 - Interactive altitude adjustments using the keyboard arrow keys.
 - Visualization of altitude using graphical indicators.
 - Integration of textures and shaders for a visually appealing interface.
