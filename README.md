@@ -1,4 +1,4 @@
-# Altimeter Simulation (OpenGL ES 2.0)
+# Altimeter Simulator (OpenGL ES 2.0)
 
 This repository contains an interactive altimeter program implemented using OpenGL. The program displays a circular altimeter with needles indicating altitude levels. Users can simulate altitude changes using the keyboard arrow keys.
 
@@ -22,11 +22,11 @@ https://github.com/yesillmustafa/Altimeter-Simulation/assets/74787246/03e5db85-a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yesillmustafa/altimeter-simulation.git
+   git clone https://github.com/yesillmustafa/altimeter-simulator.git
    ```
 2. Navigate to the repository folder:
     ```bash
-   cd altimeter-simulation
+   cd altimeter-simulator
     ```
 3. Build the program using a C++ compiler (e.g., g++):
     ```bash
